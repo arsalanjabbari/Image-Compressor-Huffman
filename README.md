@@ -1,1 +1,1 @@
-# Image-Codec-Huffman
+# Image-Compressor-Huffman
